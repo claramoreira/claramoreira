@@ -1,7 +1,7 @@
 ### Hi there :smiley:
 
 
-My name is Clara and I'm from Brazil. I like to work on Front-End projects, but I'm also enjoying Data Science right now. I'm currently working at Hexing as a Product Manager and I'm a Machine Learning/Software Engineering student at PUC Minas. 
+My name is Clara and I'm from Brazil. I like to work with Python and I'm also enjoying Data Science right now. I'm currently working at Hexing as a Product Manager and I'm a Machine Learning/Software Engineering student at PUC Minas. 
 
 If you wanna work on some Machine Learning projects together, please reach out. 👋
 
