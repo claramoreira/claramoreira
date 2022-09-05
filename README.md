@@ -2,7 +2,7 @@
 
 
 My name is Clara and I'm from Brazil. I'm currently working with ETL.
-Right now, I'm studying Machine Learning techniches and trying my best to master SQL.
+Right now, I'm studying Machine Learning techniques and trying my best to master SQL.
 
 Here's where you can find me:
 
