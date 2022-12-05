@@ -1,8 +1,8 @@
 ### Hi there :smiley:
 
 
-My name is Clara and I'm from Brazil. I'm currently working with ETL.
-Right now, I'm studying Machine Learning techniques and trying my best to master SQL.
+My name is Clara and I'm from Brazil.
+I'm currently working as a Software Engineer and I love coding.
 
 Here's where you can find me:
 
