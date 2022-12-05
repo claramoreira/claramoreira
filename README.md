@@ -4,7 +4,7 @@
 My name is Clara and I'm from Brazil.
 I'm currently working as a Software Engineer and I love coding.
 
-See my LinkedIn [here](https://www.linkedin.com/in/clara-moreira-73b281132/)
+See my LinkedIn [here](https://www.linkedin.com/in/clara-moreira-73b281132/).
 
 
 <!--
