@@ -4,9 +4,6 @@
 My name is Clara and I'm from Brazil.
 I'm currently working as a Software Engineer.
 
-See my LinkedIn [here](https://www.linkedin.com/in/clara-moreira-73b281132/).
-
-
 <!--
 **claramoreira/claramoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
